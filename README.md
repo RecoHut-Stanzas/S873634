@@ -110,7 +110,11 @@ CMAB | Offline evaluator | policy evaluation technique; see [article](https://ar
 │   ├── [3.2K]  k_arm_env.py
 │   ├── [5.9K]  rl_glue.py
 │   └── [3.5K]  wrapper.py
-├── [2.3K]  README.md
+├── [736K]  nbs
+│   └── [732K]  P296669_Sequential_Batch_Learning_in_Stochastic_MAB_and_Contextual_MAB_on_Mushroom_and_Synthetic_data.ipynb
+├── [7.5K]  README.md
+├── [7.6K]  reports
+│   └── [3.6K]  S873634_report.ipynb
 └── [ 17K]  utilities
     ├── [1.6K]  data_generator.py
     ├── [2.4K]  dataloader.py
@@ -119,5 +123,5 @@ CMAB | Offline evaluator | policy evaluation technique; see [article](https://ar
     ├── [2.1K]  run_experiment.py
     └── [3.0K]  softmax.py
 
- 3.1M used in 15 directories, 74 files
+ 3.9M used in 17 directories, 76 files
 ```
